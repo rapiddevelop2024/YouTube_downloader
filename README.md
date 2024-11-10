@@ -1,2 +1,2 @@
 # YouTube_downloader
-A function that you can download youtube links  by it
+A very simple way to download videos from youtube using python
